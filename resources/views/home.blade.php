@@ -42,7 +42,7 @@
             </ul>
         </div>
         <div class="navbar-end">
-            <a class="btn">Button</a>
+            <a href="login" class="py-2 px-4 bg-green-700 rounded text-white font-semibold">Login</a>
         </div>
     </div>
 </body>
